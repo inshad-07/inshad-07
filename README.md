@@ -57,17 +57,7 @@ I code for fun and keep learning new stuff :)
 
 <br>
 
-## Latest Blog Posts
 
-<a href="#"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [Open Source Toolkit for Building AI Agents in 2026](#)
-
-<!-- BLOG-POST-LIST:END -->
 
 <br>
 
