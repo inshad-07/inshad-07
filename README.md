@@ -21,22 +21,21 @@
 
 <i>Mostly writing, sometimes coding.</i> <br><br>
 
-👋 Hi there! I'm Anmol - a technical writer obsessed with writing valuable stuff for the developer community.
+👋 Hi there! I'm Inshad Ali - a passionate developer who loves building useful projects and exploring new technologies.
 
-Worked with a lot of funded startups (including YC-backed), some valued at over `$50M` and reached a combined audience of `1.8M+ audience` combined on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal) (primary) and [medium.com/@anmolbaranwal](https://medium.com/@anmolbaranwal).
+I enjoy working on web development, open source contributions, and continuously improving my programming skills.
 
 A little more about me:
 
-- Graduated in 2024 with 100% scholarship in CS
-- Been featured 4x as a Top Author on Devto
-- My [open source guide](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c) was picked by official GitHub community
-- Runs my [OpenSouls discord community](https://dub.sh/opensouls) of 400+ members (best place to talk to me).
-- At some point in my journey, I have done UX designing, research, software development, content writing and more.
-- Check all the details at [anmolbaranwal.com](https://anmolbaranwal.com/)!
+- 💻 Passionate about Full Stack Development
+- 🚀 Building projects and learning modern technologies
+- 🌱 Continuously improving my skills in web development
+- 🤝 Open to collaborating on exciting projects
+- 📚 Interested in Open Source and community-driven development
+- ⚡ Love solving problems through code
+- 📧 Reach me at: aliinshad711@gmail.com
 
-💜 I have spent around 2 years in open source. Contributed to many open source projects, joined 600+ discussions and earned a lot of reputation. Love the ecosystem.
-
-I code for fun and keep learning new stuff :)
+I code, learn, and build cool stuff every day :)
 
 </div>
 
