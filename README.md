@@ -1,13 +1,13 @@
 ![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/Anmol-Baranwal/">
+  <a href="https://github.com/inshad-07">
+    <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
   </a>
-  <a href="http://anmolbaranwal.com/">
-    <img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" />
-  </a>
-  <a href="mailto:hi@anmolbaranwal.com">
+  <a href="mailto:aliinshad711@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" />
   </a>
 </div>
