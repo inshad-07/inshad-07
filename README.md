@@ -45,4 +45,3 @@ I code, learn, and build cool stuff every day :)
 
 <hr>
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/inshad-07/inshad-07/output/github-contribution-grid-snake-dark.svg)
