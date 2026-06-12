@@ -4,7 +4,7 @@
   <a href="https://github.com/inshad-07">
     <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/inshad-ali786/">
     <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
   </a>
   <a href="mailto:aliinshad711@gmail.com">
