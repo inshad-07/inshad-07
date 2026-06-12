@@ -1,16 +1,88 @@
-## Hi there 👋
+![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
-<!--
-**inshad-07/inshad-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
+<a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username anmolbaranwal" /></a>
+<a href="http://anmolbaranwal.com/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of anmol baranwal" /></a>
+<a href="https://medium.com/@anmolbaranwal"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=0A0209" alt="medium profile of anmol baranwal" /></a>
+<a href="mailto:hi@anmolbaranwal.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   hi@anmolbaranwal.com" /></a>
+<a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
+</div>
+<br>
 
-Here are some ideas to get you started:
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+<i>Mostly writing, sometimes coding.</i> <br><br>
+
+👋 Hi there! I'm Anmol - a technical writer obsessed with writing valuable stuff for the developer community.
+
+Worked with a lot of funded startups (including YC-backed), some valued at over `$50M` and reached a combined audience of `1.8M+ audience` combined on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal) (primary) and [medium.com/@anmolbaranwal](https://medium.com/@anmolbaranwal).
+
+A little more about me:
+
+- Graduated in 2024 with 100% scholarship in CS
+- Been featured 4x as a Top Author on Devto
+- My [open source guide](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c) was picked by official GitHub community
+- Runs my [OpenSouls discord community](https://dub.sh/opensouls) of 400+ members (best place to talk to me).
+- At some point in my journey, I have done UX designing, research, software development, content writing and more.
+- Check all the details at [anmolbaranwal.com](https://anmolbaranwal.com/)!
+
+💜 I have spent around 2 years in open source. Contributed to many open source projects, joined 600+ discussions and earned a lot of reputation. Love the ecosystem.
+
+I code for fun and keep learning new stuff :)
+
+</div>
+
+<br>
+
+<details>
+  <summary>Stuff I have contributed to</summary>
+
+- I have played a crucial role as a maintainer & contributor of [LinksHub](https://github.com/rupali-codes/LinksHub) - not currently active in the role.
+- Secured 11th Rank in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) and created content as a core team member (GSSoC'23 Team) for 200k+ audience.
+- Participated in Buildspace Season 4 and built [designlyfe.tech](https://designlyfe.tech/). Watch my [journey of 6 weeks](https://buildspace.so/s4/demoday/designlyfe).
+- Participated in a lot of competitions in college (don't really get the time anymore) and won more than 10.
+</details>
+
+
+
+
+
+<br>
+
+## Latest Blog Posts
+
+<a href="#"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+- [Open Source Toolkit for Building AI Agents in 2026](#)
+
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# My Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+- [Form Builder](#): self-hosted Google Forms Alternative where you describe a form in chat, it builds itself and goes live instantly with a submission dashboard.
+
+
+
+
+<br>
+
+<hr>
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
