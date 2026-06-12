@@ -41,38 +41,8 @@ I code, learn, and build cool stuff every day :)
 
 <br>
 
-<details>
-  <summary>Stuff I have contributed to</summary>
 
-- I have played a crucial role as a maintainer & contributor of [LinksHub](https://github.com/rupali-codes/LinksHub) - not currently active in the role.
-- Secured 11th Rank in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) and created content as a core team member (GSSoC'23 Team) for 200k+ audience.
-- Participated in Buildspace Season 4 and built [designlyfe.tech](https://designlyfe.tech/). Watch my [journey of 6 weeks](https://buildspace.so/s4/demoday/designlyfe).
-- Participated in a lot of competitions in college (don't really get the time anymore) and won more than 10.
-</details>
-
-
-
-
-
-<br>
-
-
-
-<br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# My Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
-
-- [Form Builder](#): self-hosted Google Forms Alternative where you describe a form in chat, it builds itself and goes live instantly with a submission dashboard.
-
-
-
-
-<br>
 
 <hr>
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/inshad-07/inshad-07/output/github-contribution-grid-snake-dark.svg)
